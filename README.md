@@ -30,6 +30,8 @@ Matplotlib
 
 Seaborn
 
+Scikit-learn
+
 📂 Project Structure
 📁 IPL-Data-Analysis
 │
