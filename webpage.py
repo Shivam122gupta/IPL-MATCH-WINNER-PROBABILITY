@@ -18,7 +18,7 @@ teams = ['Sunrisers Hyderabad',
 
 cities = ['Hyderabad', 'Bangalore', 'Mumbai', 'Indore', 'Kolkata', 'Delhi',
        'Chandigarh', 'Jaipur', 'Chennai', 'Ahmedabad', 'Cuttack', 'Nagpur', 'Dharamsala',
-       'Visakhapatnam', 'Pune', 'Raipur', 'Ranchi', 'Mohali', 'Bengaluru']
+       'Visakhapatnam', 'Pune', 'Raipur', 'Ranchi', 'Mohali']
 col1, col2 = st.columns(2)
 with col1:
     batting_team = st.selectbox('Select the batting team', sorted(teams))
